@@ -1,5 +1,0 @@
-import pandas as pd
-
-# read data into a data frame
-df = pd.read_csv("alzheimers_prediction_dataset.csv")
-df
